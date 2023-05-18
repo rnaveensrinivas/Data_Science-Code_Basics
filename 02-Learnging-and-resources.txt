@@ -1,0 +1,51 @@
+Learning Data Science Effectively. 
+
+Programming Language - Python and R.
+Python is better since you can build a full stack app. 
+Don't get stuck with Python. Just learn basics and move on with project and pickup as you need.
+But do know some basics of python like,
+variables, numbers, strings, lists, dictionaries, loops, conditional, functions, read/write files, modules.
+
+
+After python - move to numpy and pandas,
+allows us to do data cleaning and exploration. 
+Data scientist spend majority of time in data cleaning. 
+Again numpy and pandas are huge, hence only focus on few things there,
+series, dataframes basics, creating dataframe from csv/excel/json, handling missing data, fillna, dropna, groupby, merge concat dataframes. 
+
+
+Next we need editors, preferably jupyter Notebook and VS code. 
+
+
+Next let's talk about data visualization; matplotlib and seaborn. 
+For matplotlib:
+linechart, barchart, pie chart, histograms, axes labels, legend, grid, scappter plot.
+
+
+Then data collection; 
+We should have good idea of sql. 
+Getting the data that is scattered across tables into the format you want.
+For that you will need to know how to perform queries, selects, merging. 
+
+
+Then math and statistics
+like,
+linear algebra, mean, median, normal distribution, standard deviation, mode, variance, range, IQR, correclation, probability, conditionaly probability, priors, posteriors, maximum likelihood, descriptive statistics, inferential statistics, regression, hypothesis testing, A/B testing.
+
+
+Then machine learning, mainly sklearn;
+regression: linear regression, classification: svm, decision tree, random forest, logistic regression, naive bayes, unsupervised learning: k-means, label and one hot encoding, train_test_split, K fold cross validation, GridSearchCV.
+
+
+Then deep learning;
+here,
+tensorflow by Google, pytorch by Meta...
+Just know one of these frameworks, 
+then learn about Neural networks, CNN and RNN.
+
+
+Then excel; for small data set it is very powerful.
+
+
+Now to learn these tools, best approach is to do hands on project. Project based learning.
+Learn whatever is needed in that project. >

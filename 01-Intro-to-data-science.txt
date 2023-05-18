@@ -1,0 +1,7 @@
+Data Science Process
+
+1. Understand Business Problem 
+2. Data Collection - reviews, sales data...
+3. Data Cleaning and Exploration - remove outliers, errors... - most time consuming
+4. Build Model - hyperparameter tuning, testing...
+5. Deploy and collect insights. 
